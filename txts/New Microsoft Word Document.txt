@@ -1,0 +1,37 @@
+*TEST NAME 01  
+*CHEMISTRY  
+1. Boron has two stable isotopes, 10B (19%) and 11B (81%). Calculate average at.wt. of 
+boron in the periodic table.  
+I. 10.8  
+II. 10.2  
+III. 11.2  
+IV. 10.0  
+ 
+2. In which case is the number of molecules of water maximum?  
+I. 18 mL of water  
+II. 0.18 g of water  
+III. 0.00224Lof water  vapours at 1 atm  and 273K  
+IV. 10–3 mol of water  
+ 
+3. An element, X has the following isotopic composition:  
+200X : 90 % 199X : 8.0 % 202X : 2.0 %  
+The weighted average atomic mass of the naturally -occurring element X is closest to 
+_______.  
+I. 201 am u 
+II. 202 amu  
+III. 199 amu  
+IV. 200 amu  
+ 
+4. 1 cc N2O at NTP contains _______.  
+I. 1.8 224 x 1022 atoms  
+II. 6.02 22400 x 1023 molecules  
+III. 1.32 224 x 1023 electrons  
+IV. all the above  
+ 
+5. What mass of 95% pure CaCO 3 will be required to neutralise 50 mL of 0.5 M HCl  solution 
+according to the following reaction?  
+CaCO 3(s) + 2HCl(aq) → CaCl 2(aq) + CO 2(g) + 2H 2O(l)  
+[Calculate upto second (2nd) place of decimal point]  
+I. 1.2g 
+II. 1.3g III. 3.6g  
+IV. 9.50g   
