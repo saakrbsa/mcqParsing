@@ -45,13 +45,15 @@ for txtFile in Path("txts").glob("*.txt"):
 
      data = file.read()
 
-     exam = re.split(r'\n', data)[0].removeprefix('*')
-     subject = re.split(r'\n', data)[1].removeprefix('*')
+     exam = re.split(r'\n', data)[0]
+     subject = re.split(r'\n', data)[1]
 
-# Splits the questions into a list assuming there is no empty lines inside each question
+# Remove Exam Name and Subject Name from First Two Lines
 
     frmt_1 = data.split("\n",1)[1]
     frmt_2 = frmt_1.split("\n",1)[1]
+
+# Splits the questions into a list assuming there is no empty lines inside each question
 
     questions = re.split(r'\n\s*\n', frmt_2)
     

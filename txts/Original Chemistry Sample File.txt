@@ -1,5 +1,5 @@
-*TEST NAME 01  
-*CHEMISTRY  
+TEST NAME 01  
+CHEMISTRY  
 1. Boron has two stable isotopes, 10B (19%) and 11B (81%). Calculate average at.wt. of 
 boron in the periodic table.  
 I. 10.8  
